@@ -4,4 +4,5 @@
 
 # Notes
 Manifest: permission, meta-data
+
 Build gradle: app
